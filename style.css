@@ -170,7 +170,7 @@ ol {
 
 @media only screen and (max-width: 560px) {
   body {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   nav {
@@ -194,11 +194,11 @@ ol {
   }
 
   #headline {
-    font-size: 3em;
+    font-size: 2.8em;
   }
 
   section {
-    padding: 0em 16px 32px 16px;
+    padding: 0em 16px 48px 16px;
   }
 
   p {
@@ -212,7 +212,7 @@ ol {
   }
 
   ol li {
-    padding-bottom: 32px;
+    padding-bottom: 40px;
   }
 
   footer ul {
